@@ -1,9 +1,0 @@
-plotly
-pandas
-numpy
-time
-datetime
-yfinance
-streamlit
-sklearn
-keras
